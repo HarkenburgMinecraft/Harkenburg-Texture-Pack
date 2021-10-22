@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/blackstone/0" },
+            { "model": "block/blackstone/1" },
+            { "model": "block/blackstone/2" },
+            { "model": "block/blackstone/3" }
+        ]
+    }
+}
